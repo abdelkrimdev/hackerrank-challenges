@@ -1,0 +1,9 @@
+.buttonContainer {
+  width: 75%;
+}
+
+.buttonContainer > .buttonClass {
+      font-size: 24px;
+      width: 30%;
+      height: 48px;
+}
