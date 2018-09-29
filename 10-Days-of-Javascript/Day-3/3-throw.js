@@ -6,10 +6,10 @@
  */
 function isPositive(a) {
   if (a > 0)
-      return "YES";
+    return "YES";
 
   if (a === 0)
-      throw new Error("Zero Error");
+    throw new Error("Zero Error");
 
   throw new Error("Negative Error");
 }
