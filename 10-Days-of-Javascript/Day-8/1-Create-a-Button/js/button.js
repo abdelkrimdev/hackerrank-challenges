@@ -3,5 +3,5 @@ let value = 0;
 
 counter.onclick = function () {
   value++;
-  counter.innerHTML = value;
+  counter.textContent = value;
 };
